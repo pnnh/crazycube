@@ -123,12 +123,8 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # 忽略UE自动生成的ExternalActors文件夹
-/Content/__ExternalActors__/
-/Content/__ExternalObjects__/
-
-# UE5 Special Content Folders (Cache)
-/Content/_ExternalActors_/
-/Content/_ExternalObjects_/
+__ExternalActors__/
+__ExternalObjects__/
 
 # Visual Studio
 .vs/
